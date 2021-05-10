@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useState} from 'react'
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
 import Store from './components/Store'
 import Cart from './components/Cart'
 import Header from './components/Header'
@@ -26,6 +26,9 @@ function App() {
     <BrowserRouter>
       <Header cartValue={cartValue}/>
       <Switch>
+        <Route exact path="/">
+          <Redirect to="/Store" />
+        </Route>
         <Route path="/Store">
           <Store handleAddToCart={handleAddToCart}/>
         </Route>
