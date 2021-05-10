@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.51cd5502.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.10acd29d.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.10acd29d.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.8fe60f94.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.8fe60f94.js.map",
+    "static/js/2.ff46f6f7.chunk.js": "/shopping-cart/static/js/2.ff46f6f7.chunk.js",
+    "static/js/2.ff46f6f7.chunk.js.map": "/shopping-cart/static/js/2.ff46f6f7.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.51cd5502.chunk.css.map": "/shopping-cart/static/css/main.51cd5502.chunk.css.map",
+    "static/js/2.ff46f6f7.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.ff46f6f7.chunk.js.LICENSE.txt",
+    "static/media/dmguide.a03648dd.jpeg": "/shopping-cart/static/media/dmguide.a03648dd.jpeg",
+    "static/media/ebberon.5854dae9.jpeg": "/shopping-cart/static/media/ebberon.5854dae9.jpeg",
+    "static/media/monstermanual.7e6a5a3e.jpeg": "/shopping-cart/static/media/monstermanual.7e6a5a3e.jpeg",
+    "static/media/player.52c4726f.jpeg": "/shopping-cart/static/media/player.52c4726f.jpeg",
+    "static/media/ravnica.5ea61716.jpeg": "/shopping-cart/static/media/ravnica.5ea61716.jpeg",
+    "static/media/tasha.4bf3b64e.jpeg": "/shopping-cart/static/media/tasha.4bf3b64e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe60f94.js",
+    "static/js/2.ff46f6f7.chunk.js",
+    "static/css/main.51cd5502.chunk.css",
+    "static/js/main.10acd29d.chunk.js"
+  ]
+}
