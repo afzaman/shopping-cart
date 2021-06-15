@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useState} from 'react'
-import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
+import { HashRouter as BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
 import Store from './components/Store'
 import Cart from './components/Cart'
 import Header from './components/Header'
